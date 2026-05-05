@@ -17,6 +17,11 @@
 /public/build
 /public/hot
 /public/storage
+/graphify-out/
+/.graphify_scope/
+/.graphify_*.json
+/.graphify_*.txt
+/.graphify_python
 /storage/*.key
 /storage/pail
 /vendor
