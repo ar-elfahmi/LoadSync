@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="public/image/brand%20logo.svg" alt="LoadSync brand logo" width="140">
+  <span style="display:inline-flex;align-items:center;gap:14px;">
+    <img src="public/image/brand%20logo.svg" alt="LoadSync brand logo" width="140">
+    <span style="font-size:2rem;font-weight:700;line-height:1;">LoadSync</span>
+  </span>
 </p>
 
 # LoadSync
