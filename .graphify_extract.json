@@ -1,0 +1,722 @@
+{
+  "nodes": [
+    {
+      "id": "readme_md",
+      "label": "README",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "1-58",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "composer_json",
+      "label": "composer.json",
+      "file_type": "document",
+      "source_file": "composer.json",
+      "source_location": "1-87",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "package_json",
+      "label": "package.json",
+      "file_type": "document",
+      "source_file": "package.json",
+      "source_location": "1-16",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "laravel_scaffold",
+      "label": "Laravel Scaffold",
+      "file_type": "rationale",
+      "source_file": "README.md",
+      "source_location": "10-42",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "routing_layer",
+      "label": "Routing Layer",
+      "file_type": "rationale",
+      "source_file": "routes/web.php",
+      "source_location": "5-13",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ui_shell",
+      "label": "UI Shell",
+      "file_type": "rationale",
+      "source_file": "resources/views/dashboard.blade.php",
+      "source_location": "1-200",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "asset_pipeline",
+      "label": "Asset Pipeline",
+      "file_type": "rationale",
+      "source_file": "resources/css/app.css",
+      "source_location": "1-11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "auth_data_layer",
+      "label": "Auth Data Layer",
+      "file_type": "rationale",
+      "source_file": "app/Models/User.php",
+      "source_location": "13-31",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cache_queue_layer",
+      "label": "Cache and Queue Layer",
+      "file_type": "rationale",
+      "source_file": "database/migrations/0001_01_01_000001_create_cache_table.php",
+      "source_location": "12-45",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "testing_layer",
+      "label": "Testing Layer",
+      "file_type": "rationale",
+      "source_file": "tests/TestCase.php",
+      "source_location": "1-10",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controller_base",
+      "label": "Controller",
+      "file_type": "code",
+      "source_file": "app/Http/Controllers/Controller.php",
+      "source_location": "1-8",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "app_service_provider",
+      "label": "AppServiceProvider",
+      "file_type": "code",
+      "source_file": "app/Providers/AppServiceProvider.php",
+      "source_location": "1-24",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "user_model",
+      "label": "User",
+      "file_type": "code",
+      "source_file": "app/Models/User.php",
+      "source_location": "1-32",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "user_factory",
+      "label": "UserFactory",
+      "file_type": "code",
+      "source_file": "database/factories/UserFactory.php",
+      "source_location": "1-45",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "database_seeder",
+      "label": "DatabaseSeeder",
+      "file_type": "code",
+      "source_file": "database/seeders/DatabaseSeeder.php",
+      "source_location": "1-25",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "create_users_table",
+      "label": "Create Users Table",
+      "file_type": "code",
+      "source_file": "database/migrations/0001_01_01_000000_create_users_table.php",
+      "source_location": "12-48",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "create_cache_table",
+      "label": "Create Cache Table",
+      "file_type": "code",
+      "source_file": "database/migrations/0001_01_01_000001_create_cache_table.php",
+      "source_location": "12-34",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "create_jobs_table",
+      "label": "Create Jobs Table",
+      "file_type": "code",
+      "source_file": "database/migrations/0001_01_01_000002_create_jobs_table.php",
+      "source_location": "12-56",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "web_routes",
+      "label": "web.php",
+      "file_type": "code",
+      "source_file": "routes/web.php",
+      "source_location": "1-14",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "console_routes",
+      "label": "console.php",
+      "file_type": "code",
+      "source_file": "routes/console.php",
+      "source_location": "1-8",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "tests_base",
+      "label": "TestCase",
+      "file_type": "code",
+      "source_file": "tests/TestCase.php",
+      "source_location": "1-10",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "feature_example_test",
+      "label": "Feature Example Test",
+      "file_type": "code",
+      "source_file": "tests/Feature/ExampleTest.php",
+      "source_location": "1-19",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "unit_example_test",
+      "label": "Unit Example Test",
+      "file_type": "code",
+      "source_file": "tests/Unit/ExampleTest.php",
+      "source_location": "1-16",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "app_css",
+      "label": "app.css",
+      "file_type": "code",
+      "source_file": "resources/css/app.css",
+      "source_location": "1-11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "app_js",
+      "label": "app.js",
+      "file_type": "code",
+      "source_file": "resources/js/app.js",
+      "source_location": "1-1",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "welcome_view",
+      "label": "welcome.blade.php",
+      "file_type": "code",
+      "source_file": "resources/views/welcome.blade.php",
+      "source_location": "1-220",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dashboard_view",
+      "label": "dashboard.blade.php",
+      "file_type": "code",
+      "source_file": "resources/views/dashboard.blade.php",
+      "source_location": "1-200",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "machine_management_view",
+      "label": "machine_management.blade.php",
+      "file_type": "code",
+      "source_file": "resources/views/machine_management.blade.php",
+      "source_location": "1-220",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "readme_md",
+      "target": "laravel_scaffold",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "10-42",
+      "weight": 1.0
+    },
+    {
+      "source": "composer_json",
+      "target": "laravel_scaffold",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "composer.json",
+      "source_location": "8-22",
+      "weight": 1.0
+    },
+    {
+      "source": "package_json",
+      "target": "asset_pipeline",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "package.json",
+      "source_location": "5-15",
+      "weight": 1.0
+    },
+    {
+      "source": "app_css",
+      "target": "asset_pipeline",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "resources/css/app.css",
+      "source_location": "1-11",
+      "weight": 1.0
+    },
+    {
+      "source": "app_js",
+      "target": "asset_pipeline",
+      "relation": "rationale_for",
+      "confidence": "AMBIGUOUS",
+      "confidence_score": 0.2,
+      "source_file": "resources/js/app.js",
+      "source_location": "1-1",
+      "weight": 1.0
+    },
+    {
+      "source": "web_routes",
+      "target": "routing_layer",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "routes/web.php",
+      "source_location": "5-13",
+      "weight": 1.0
+    },
+    {
+      "source": "console_routes",
+      "target": "routing_layer",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "routes/console.php",
+      "source_location": "6-8",
+      "weight": 1.0
+    },
+    {
+      "source": "welcome_view",
+      "target": "ui_shell",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "resources/views/welcome.blade.php",
+      "source_location": "1-220",
+      "weight": 1.0
+    },
+    {
+      "source": "dashboard_view",
+      "target": "ui_shell",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "resources/views/dashboard.blade.php",
+      "source_location": "1-200",
+      "weight": 1.0
+    },
+    {
+      "source": "machine_management_view",
+      "target": "ui_shell",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "resources/views/machine_management.blade.php",
+      "source_location": "1-220",
+      "weight": 1.0
+    },
+    {
+      "source": "user_model",
+      "target": "auth_data_layer",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "app/Models/User.php",
+      "source_location": "13-31",
+      "weight": 1.0
+    },
+    {
+      "source": "user_factory",
+      "target": "auth_data_layer",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "database/factories/UserFactory.php",
+      "source_location": "25-44",
+      "weight": 1.0
+    },
+    {
+      "source": "database_seeder",
+      "target": "auth_data_layer",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "database/seeders/DatabaseSeeder.php",
+      "source_location": "16-24",
+      "weight": 1.0
+    },
+    {
+      "source": "create_users_table",
+      "target": "auth_data_layer",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "database/migrations/0001_01_01_000000_create_users_table.php",
+      "source_location": "12-38",
+      "weight": 1.0
+    },
+    {
+      "source": "create_cache_table",
+      "target": "cache_queue_layer",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "database/migrations/0001_01_01_000001_create_cache_table.php",
+      "source_location": "12-34",
+      "weight": 1.0
+    },
+    {
+      "source": "create_jobs_table",
+      "target": "cache_queue_layer",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "database/migrations/0001_01_01_000002_create_jobs_table.php",
+      "source_location": "12-56",
+      "weight": 1.0
+    },
+    {
+      "source": "tests_base",
+      "target": "testing_layer",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "tests/TestCase.php",
+      "source_location": "1-10",
+      "weight": 1.0
+    },
+    {
+      "source": "feature_example_test",
+      "target": "testing_layer",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "tests/Feature/ExampleTest.php",
+      "source_location": "13-18",
+      "weight": 1.0
+    },
+    {
+      "source": "unit_example_test",
+      "target": "testing_layer",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "tests/Unit/ExampleTest.php",
+      "source_location": "12-15",
+      "weight": 1.0
+    },
+    {
+      "source": "controller_base",
+      "target": "laravel_scaffold",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "app/Http/Controllers/Controller.php",
+      "source_location": "1-8",
+      "weight": 1.0
+    },
+    {
+      "source": "app_service_provider",
+      "target": "laravel_scaffold",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "app/Providers/AppServiceProvider.php",
+      "source_location": "12-23",
+      "weight": 1.0
+    },
+    {
+      "source": "user_factory",
+      "target": "user_model",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "database/factories/UserFactory.php",
+      "source_location": "5-33",
+      "weight": 1.0
+    },
+    {
+      "source": "database_seeder",
+      "target": "user_factory",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "database/seeders/DatabaseSeeder.php",
+      "source_location": "20-23",
+      "weight": 1.0
+    },
+    {
+      "source": "create_users_table",
+      "target": "user_model",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "database/migrations/0001_01_01_000000_create_users_table.php",
+      "source_location": "14-22",
+      "weight": 1.0
+    },
+    {
+      "source": "web_routes",
+      "target": "welcome_view",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "routes/web.php",
+      "source_location": "5-7",
+      "weight": 1.0
+    },
+    {
+      "source": "web_routes",
+      "target": "machine_management_view",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "routes/web.php",
+      "source_location": "9-11",
+      "weight": 1.0
+    },
+    {
+      "source": "web_routes",
+      "target": "dashboard_view",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "routes/web.php",
+      "source_location": "12-14",
+      "weight": 1.0
+    },
+    {
+      "source": "dashboard_view",
+      "target": "app_css",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "resources/views/dashboard.blade.php",
+      "source_location": "9-10",
+      "weight": 1.0
+    },
+    {
+      "source": "dashboard_view",
+      "target": "app_js",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "resources/views/dashboard.blade.php",
+      "source_location": "9-10",
+      "weight": 1.0
+    },
+    {
+      "source": "welcome_view",
+      "target": "app_css",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "resources/views/welcome.blade.php",
+      "source_location": "14-16",
+      "weight": 1.0
+    },
+    {
+      "source": "welcome_view",
+      "target": "app_js",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "resources/views/welcome.blade.php",
+      "source_location": "14-16",
+      "weight": 1.0
+    },
+    {
+      "source": "feature_example_test",
+      "target": "web_routes",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "tests/Feature/ExampleTest.php",
+      "source_location": "13-18",
+      "weight": 1.0
+    },
+    {
+      "source": "unit_example_test",
+      "target": "tests_base",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.55,
+      "source_file": "tests/Unit/ExampleTest.php",
+      "source_location": "7-15",
+      "weight": 1.0
+    },
+    {
+      "source": "welcome_view",
+      "target": "dashboard_view",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "resources/views/welcome.blade.php",
+      "source_location": "1-220",
+      "weight": 1.0
+    },
+    {
+      "source": "dashboard_view",
+      "target": "machine_management_view",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "resources/views/dashboard.blade.php",
+      "source_location": "1-200",
+      "weight": 1.0
+    },
+    {
+      "source": "welcome_view",
+      "target": "ui_shell",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "resources/views/welcome.blade.php",
+      "source_location": "14-220",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "laravel_stack",
+      "label": "Laravel Stack",
+      "nodes": [
+        "readme_md",
+        "composer_json",
+        "package_json",
+        "laravel_scaffold"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "README.md"
+    },
+    {
+      "id": "ui_experience",
+      "label": "UI Experience",
+      "nodes": [
+        "web_routes",
+        "welcome_view",
+        "dashboard_view",
+        "machine_management_view",
+        "ui_shell"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "routes/web.php"
+    },
+    {
+      "id": "data_and_tests",
+      "label": "Data and Tests",
+      "nodes": [
+        "user_model",
+        "user_factory",
+        "database_seeder",
+        "create_users_table",
+        "feature_example_test"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "database/seeders/DatabaseSeeder.php"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}
