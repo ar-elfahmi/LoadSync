@@ -1,9 +1,4 @@
-<p align="center">
-  <span style="display:inline-flex;align-items:center;gap:14px;">
-    <img src="public/image/brand%20logo.svg" alt="LoadSync brand logo" width="140">
-    <img src="public/image/brand%20name.svg" alt="LoadSync brand name" width="240">
-  </span>
-</p>
+# LoadSync
 
 > LoadSync is a Laravel dashboard for monitoring operations and managing machines from a clean, operator-focused interface.
 
